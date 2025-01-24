@@ -3,3 +3,5 @@
 DS5110  
 Homework 2 - Data Collection  
 Due 1/24/2025
+
+The Homework is attached in the pdf version.
