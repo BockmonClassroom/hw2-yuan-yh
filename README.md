@@ -2,6 +2,5 @@
 # HW2
 DS5110  
 Homework 2 - Data Collection  
-Due 1/24/2025
 
-The Homework is attached in the pdf version.
+A PDF version of homework #2 is uploaded. The collected sample data is stored under the data folder, and all images for answers are under the the img folder for backup.
